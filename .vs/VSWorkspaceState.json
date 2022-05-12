@@ -1,13 +1,12 @@
 {
-  "ExpandedNodes": [
-    "",
-    "\\ThoiTrang",
-    "\\ThoiTrang\\Areas",
-    "\\ThoiTrang\\Areas\\Admin",
-    "\\ThoiTrang\\Areas\\Admin\\Views",
-    "\\ThoiTrang\\Areas\\Admin\\Views\\Shared",
-    "\\ThoiTrang\\Views",
-    "\\ThoiTrang\\Views\\Shared"
-  ],
-  "PreviewInSolutionExplorer": false
+    "ExpandedNodes": [
+        "",
+        "\\ThoiTrang",
+        "\\ThoiTrang\\Areas",
+        "\\ThoiTrang\\Areas\\Admin",
+        "\\ThoiTrang\\Areas\\Admin\\Views",
+        "\\ThoiTrang\\Areas\\Admin\\Views\\Shared"
+    ],
+    "SelectedNode": "\\ThoiTrang\\Areas\\Admin\\Views\\Shared\\HtmlPage1.html",
+    "PreviewInSolutionExplorer": false
 }
